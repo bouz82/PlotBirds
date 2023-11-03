@@ -1,0 +1,16 @@
+
+.DS_Store
+
+__pycache__/
+
+_OLD/
+
+data/
+
+testing.py
+
+to_do.py
+
+trektellen.py
+
+species_data.py
