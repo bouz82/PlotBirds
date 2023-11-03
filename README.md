@@ -3,8 +3,9 @@ Plot bird co-occurrence based on waarneming.nl
 
 ## Manual
 Species and location ID's can be found in the waarneming url's:
-https://waarneming.nl/locations/**9114**/observations/?date_after=2022-11-03&date_before=2023-11-03&species=**759**
-https://waarneming.nl/species/**759**/observations/?
+
+https://waarneming.nl/locations/9114/observations/?date_after=2022-11-03&date_before=2023-11-03&species=759
+https://waarneming.nl/species/759/observations/?
 
 
 ```python
