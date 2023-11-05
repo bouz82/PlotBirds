@@ -1,6 +1,8 @@
 # PlotBirds
 Plot bird co-occurrence based on waarneming.nl
 
+![](images/Screenshot_PlotBirds.png)
+
 ## Manual
 Species and location ID's can be found in the waarneming url's:
 
